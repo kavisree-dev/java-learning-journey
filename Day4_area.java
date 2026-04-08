@@ -14,6 +14,7 @@ public class Day4_area {
     System.out.println("the width is:"+width);
     System.out.println("the height is:"+height);
     System.out.println("the area is:"+area+"cm^2");
+    scanner.close();
     }
     
 }
