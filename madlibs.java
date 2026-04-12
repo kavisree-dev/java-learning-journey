@@ -24,6 +24,6 @@ public class madlibs {
     System.out.println("She "+verb2+" herself");
     System.out.println("She is a "+adjective2+" girl");
     System.out.println(noun+" support herself");
-
+Scanner.close();
     }
 }
