@@ -19,11 +19,12 @@ public class madlibs {
     System.out.println("enter verb2(actions):");
     verb2 = scanner.nextLine();
 
-    System.out.println("A "+noun+" is putting "+adjective1+" effort to land on a job to prevent her from evil eyes which always around her. ");
-    System.out.println("She is everyday "+verb1+" very hardly for that");
-    System.out.println("She "+verb2+" herself");
-    System.out.println("She is a "+adjective2+" girl");
-    System.out.println(noun+" support herself");
+    System.out.println("There is a girl named " + noun + ".");
+    System.out.println("She is very " + adjective1 + " and dreams of building a better future.");
+    System.out.println("Everyday she, " + verb1 + " with determination despite the challenges around her.");
+    System.out.println("Sometimes, she feels pressure and doubt, but she never gives up.");
+    System.out.println(She chooses to " + verb2 + " herself and keep moving forward.");
+    System.out.println(noun + "is truly a " + adjective2 + "and inspiring girl.");                    
 scanner.close();
     }
 }
