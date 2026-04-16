@@ -23,7 +23,7 @@ public class madlibs {
     System.out.println("She is very " + adjective1 + " and dreams of building a better future.");
     System.out.println("Everyday she, " + verb1 + " with determination despite the challenges around her.");
     System.out.println("Sometimes, she feels pressure and doubt, but she never gives up.");
-    System.out.println(She chooses to " + verb2 + " herself and keep moving forward.");
+    System.out.println("She chooses to " + verb2 + " herself and keep moving forward.");
     System.out.println(noun + "is truly a " + adjective2 + "and inspiring girl.");                    
 scanner.close();
     }
