@@ -35,3 +35,4 @@ By: Kavi Sree A
 ## Day 15-practice
 -temperature converter (for converting celcius into fahrenheit and kelvin).
 -simple calculator (addition,subtraction,multiplication,division operations for two inputs at a time).
+-learnt primitive datatypes and revised all above topics.
