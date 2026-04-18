@@ -33,4 +33,5 @@ By: Kavi Sree A
 ## Day 13 & 14
 -didn't  learnt
 ## Day 15-practice
--temperature converter celcius into fahrenheit and kelvin.
+-temperature converter (for converting celcius into fahrenheit and kelvin).
+-simple calculator (addition,subtraction,multiplication,division operations for two inputs at a time).
