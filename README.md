@@ -28,3 +28,9 @@ By: Kavi Sree A
 -built number guessing game with one chance
 ## Day 10- User input practice
 -built number guessing game with three chance
+## Day 11 & 12
+-didn't  learmt
+## Day 13 & 14
+-didn't  learnt
+## Day 15-practice
+-temperature converter celcius into fahrenheit and kelvin.
