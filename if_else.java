@@ -9,5 +9,9 @@ public class if_else{
     else{
         System.out.println("Enjoy sunlight");
     }
+/* 
+   curly brackets {} inside if-else condition is not necessory only if there is one statement is available 
+   if more than one statement is there then curly brackets{} inside if-else condition is necessary.
+*/
 }
 }

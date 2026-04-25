@@ -6,7 +6,7 @@ System.out.print("Enter a number:");
 double number=fizzbuzz.nextDouble();
 if(number%3==0 && number%5==0){
     System.out.println("The number is divisible by both 3 and 5.");}
-else{
+else{ 
     System.out.println("The number is not divisible by both 3 and 5");}
 fizzbuzz.close();
     }
